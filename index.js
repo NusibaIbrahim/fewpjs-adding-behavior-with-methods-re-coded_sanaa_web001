@@ -38,4 +38,7 @@ class Bird {
   }
 }
 bird = new Bird("Pablo", "male");
+bird.speak();
 bird2 = new Bird("Mable", "female");
+bird2.speak();
+
